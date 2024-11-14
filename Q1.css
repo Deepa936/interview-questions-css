@@ -1,0 +1,40 @@
+/*flex in row*/
+.main{
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    background: yellowgreen;
+    display: flex;
+    flex-direction:row;
+}
+.card1{
+    height: 100px;
+    width: 100px;
+    background: blueviolet;
+    
+}
+.card2{
+    height: 100px;
+    width: 100px;
+    background: orangered;
+}
+/*flex in column*/
+.main1{
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    background:red;
+    display: flex;
+    flex-direction:column;
+}
+.card1{
+    height: 100px;
+    width: 100px;
+    background: blue;
+    
+}
+.card2{
+    height: 100px;
+    width: 100px;
+    background: green;
+}

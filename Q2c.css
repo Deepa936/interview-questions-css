@@ -1,0 +1,11 @@
+p{
+    color: red;
+    font-size: 22px;
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: brown;
+}

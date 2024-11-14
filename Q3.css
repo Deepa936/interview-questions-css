@@ -1,0 +1,19 @@
+.main{
+    height: 500px;
+    width: 500px;
+    background: yellowgreen;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+}
+.card1{
+    height: 100px;
+    width: 100px;
+    background: blueviolet;
+    
+}
+.card2{
+    height: 100px;
+    width: 100px;
+    background: orangered;
+}

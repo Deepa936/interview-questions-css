@@ -1,0 +1,22 @@
+(1)Difference between flex row and column
+ans=flex row work on a x-axis, and flex column work on y-axis.
+eg:day1IVQ.html,day.css
+
+(2)Explain inline , internal and external stylesheet
+ans=Inline css we use in HTML tag itself.
+ internal css use in the html page upper the header of a page.
+ extranal css we create outer the html pge we save the document".css"
+
+(3)Justify-content allows you to do what?
+ans=justify-content help to in a conatnier where we postion in the content this type is left right top botton space around space between space evenly.
+
+(4)Difference between absolute and relative positioning.
+ans=relative path- the files located inner the folder. we use "./"
+ absolute path- the files located outer the folder. we use "http/"
+
+(5)What is the z-index in CSS?
+ans= It is a CSS property its help the order of overlapping element.
+
+(6)What is the difference between padding and margin?
+ans=  margin is the space of the element's border.
+ padding is the space of the element and border. 
